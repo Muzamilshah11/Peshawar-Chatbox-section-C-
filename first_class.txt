@@ -1,0 +1,11 @@
+code space dot exp:-- <code .>
+spacific folder mai Visual Basic ka Code Run Karni ka lya
+git add space dot exp:-- <git add .>
+Iss mai ham kuch text add darna kho to git add . ka command use kari ga
+git commit -m "Write your comment"
+Ye commnad commend to add lekni ka kha.
+git push:-- Iss command ko hum tab use karti kha. jab koyi 
+comment or text file ma andar dalna kho. to PUSH comand use hota kha.
+
+
+This is second touch
