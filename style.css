@@ -1,0 +1,83 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styles */
+img {
+    border-radius: 50%;
+}
+
+h2 {
+    color: #333;
+}
+
+hr {
+    border: 2px solid yellow;
+}
+/* Contact infomation style*/
+.contact-info {
+    margin-top: 20px;
+    text-align: center;
+}
+/* Education Table Styles */
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: pink;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Experience Section Styles */
+#experience {
+    margin-top: 20px;
+}
+
+/* Skills and Languages Styles */
+ul {
+    list-style-type: none;
+    line-height: 2rem;
+    padding: 0rem;
+}
+
+u {
+    text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+    
+}
